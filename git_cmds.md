@@ -1,9 +1,4 @@
 ## Git Commands 
-Use once when starting a git repo
-
-```shell
-git init
-```
 
 One time commands
 
@@ -12,6 +7,22 @@ git config --global core.editor "nano"
 git config --global user.name "Hendrix"
 git config --global user.email JMHendrix@student.fullsail.edu
 ```
+Use once when starting a git repo
+
+```shell
+git init
+```
+
+Git Tools
+
+```shell
+git blame <path>
+git reflog
+git log
+git reset --hard <sha_id> (git log commit #)
+git checkout <branch_name>
+```
+
 
 Use often, Common Commands
 
