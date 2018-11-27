@@ -1,3 +1,5 @@
+
+
 ## Common Commands
 ```Shell
 
@@ -27,6 +29,14 @@ Example:```/users/cchapman/Desktop/Zero_to_Git```
 ```shell
 cd ./Desktop
 ```
+
+##### Parent Directory
+To access the parent Dir use the ```..``` to reference it.
+
+Example:
+
+```shell 
+cd ..			# Goes to the Parent Folder (directory)
 ## Be Careful
 ```shell
 rm /
